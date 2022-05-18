@@ -1,7 +1,7 @@
-# Trabalho-Pratico
+# Trabalho-Prático
 ## Esse é um programa feito por mim, para a disciplina Programação de Computadores do curso de Ciência da Computação da UFERSA.
 
-### Nesse trabalho eu desenvolvi um programa na linguagem C++, no qual o mesmo tem como principal função auxiliar o funcionamento de uma biblioteca.
+### Nesse trabalho eu desenvolvi um programa na linguagem C++, no qual o mesmo tem como principal função auxiliar o funcionamento de uma biblioteca universitária.
 
 *Logo no início do programa é perguntado ao usário quantas devoluções foram realizadas e em qual data elas ocorreram. <br/>
 *Após preencer esses dados, o usuário entre com o codigo de 5 digitos do Livro e com o codigo de Matricula do aluno que esta realizando a devolução.<br/>
